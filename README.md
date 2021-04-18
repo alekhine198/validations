@@ -4,4 +4,4 @@ blue kale validation repo for training
 Rearrange
 ==========
 
-This module is used for rearranging names.
+This module is used for validating usernames.
